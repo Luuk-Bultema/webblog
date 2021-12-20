@@ -1,0 +1,132 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 0px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#title{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Gill Sans Nova Light";
+    color: greenyellow;
+    margin-top: 20%;
+    margin-left: 10%
+}
+
+.title2{
+    font-size: 40px;
+    font-family: "Gill Sans Nova Light";
+    text-align: center;
+    display: block;
+    color: lightskyblue;
+    float: right;
+    margin-top: 50px;
+
+
+
+}
+.txt{
+    margin-top: 50px;
+    color: limegreen;
+    font-size: 22px;
+    font-family: "Gill Sans Nova Light";
+    text-align: center;
+
+}
+
+
+/* body{
+
+    background-color:  #333;
+
+} */
+
+
+#backgroundhome{
+    background-image: url("/images/headphone.jpg");
+    position: fixed;
+    background-size: cover;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+
+}
+
+#overmij{
+    background-color: #34568B;
+    position: fixed;
+    background-size: cover;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#posts{
+    background-color:aquamarine;
+    position: fixed;
+    background-size: cover;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+
+}
+
+img{
+    max-width: 70%;
+    height:auto;
+    float:left;
+}
+
+u{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+i{
+    color: white;
+    font-size: 20px;
+}
+
+h2{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+
